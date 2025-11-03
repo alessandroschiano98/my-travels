@@ -39,7 +39,7 @@ nav ul li a {
 }
 a.active,
 a:hover {
-  background: #1b9bff;
+  background: #8354B1;
   transition: .2s;
 }
 .checkbtn {
@@ -50,6 +50,7 @@ a:hover {
   margin-right: 30px;
   cursor: pointer;
   display: none;
+
 }
 #check {
   display: none;

@@ -11,10 +11,11 @@ body {
 }
 
 .homepage-title {
-    font-size: 25px;
-    font-weight: 700;
     display: flex;
     justify-content: center;
+    font-size: 25px;
+    font-weight: 700;
+    
 
 }
 
@@ -82,6 +83,15 @@ body {
     background: #8354B1;
     color: #fff; 
 }
+
+.flag-icon {
+    width: 24px;
+    height: auto;
+    margin-right: 8px;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+  }
 
 // ! RESPONSIVE // 
 @media (max-width: 1200px) {
