@@ -47,6 +47,18 @@ body {
     border-radius: 8px;
     object-fit: cover;
 }
+
+.card-item h3 .country {
+    background: none;     
+    padding: 0;           
+    margin: 0;
+    border-radius: 0;
+    font-weight: 700;     
+    font-size: 1.438rem; 
+    color: #FFFFF;       
+  }
+  
+
 .card-list span {
     display: inline-block;
     background: #F7DFF5;
@@ -56,6 +68,8 @@ body {
     border-radius: 50px;
     font-weight: 600;
 }
+
+  
 .card-list .data {
     background-color: #8354B1; 
     color: #FFFFFF;
@@ -83,15 +97,6 @@ body {
     background: #8354B1;
     color: #fff; 
 }
-
-.flag-icon {
-    width: 24px;
-    height: auto;
-    margin-right: 8px;
-    vertical-align: middle;
-    border-radius: 2px;
-    box-shadow: 0 0 2px rgba(0,0,0,0.2);
-  }
 
 // ! RESPONSIVE // 
 @media (max-width: 1200px) {

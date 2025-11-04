@@ -14,9 +14,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       card.innerHTML = `
         <img src="${t.img}" alt="${t.city}">
         <span class="data">${t.date}</span>
-        <h3>
-          ${t.city}, <strong>${t.country}</strong>
-        </h3>
+      <h3>${t.city}, <span class="country">${t.country}</span></h3>
         <p class="text-secondary fw-bold">${t.description}</p>
         <div class="arrow">
           <i class="fas fa-arrow-right card-icon"></i>
