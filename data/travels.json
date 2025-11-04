@@ -13,7 +13,7 @@
     },
     {
       "img": "https://www.almirall.info/assets/cache/uploads/altres/1920x1036/playa-edificios-lloret-de-mar-almirall-apartaments-1676893672.jpeg",
-      "date": "07/08/2021",
+      "date": "07/08/2022",
       "city": "Lloret de Mar, Spain",
       "description": "Summer vibes and beach sunsets."
     },
@@ -26,7 +26,7 @@
     {
       "img": "https://www.astrolabioviaggi.it/wp-content/uploads/2022/04/immagine.jpg",
       "date": "22/08/2022",
-      "city": "Porto, Portugal",
+      "city": "Oporto, Portugal",
       "description": "The home of port wine and colorful houses."
     },
     {
@@ -34,6 +34,12 @@
       "date": "11/12/2022",
       "city": "Bucharest, Romania",
       "description": "A surprising mix of history and modern vibes."
+    },
+    {
+      "img": "https://inmontenegro.it/wp-content/uploads/2021/10/cosa-vedere-kotor-montenegro.webp",
+      "date": "14/08/2023",
+      "city": "Kotor, Montenegro",
+      "description":  "A hidden gem of the Balkans, its medieval walls and narrow streets tell stories of history, charm, and timeless beauty."
     },
     {
       "img": "https://greciaavela.it/wp-content/uploads/2023/11/Come-arrivare-a-Mykonos.png",
