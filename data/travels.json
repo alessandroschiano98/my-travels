@@ -4,118 +4,169 @@
     "date": "05/02/2018",
     "city": "Vilnius",
     "country": "Lithuania",
-    "description": "First solo travel in Northern Europe, freezing but magical!"
+    "description": "First solo travel in Northern Europe, freezing but magical!",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.visit.brussels/content/dam/visitbrussels/images/b2c/what-to-do/les-incontournables-de-bruxelles/GRAND_PLACE_4212-%C2%A9_visit.brussels_-_Jean-Michel_Byl.jpg",
     "date": "14/11/2021",
     "city": "Bruxelles",
     "country": "Belgium",
-    "description": "Belgium’s capital full of chocolate, art and beer!"
+    "description": "Belgium’s capital full of chocolate, art and beer!",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.almirall.info/assets/cache/uploads/altres/1920x1036/playa-edificios-lloret-de-mar-almirall-apartaments-1676893672.jpeg",
     "date": "07/08/2022",
     "city": "Lloret de Mar",
     "country": "Spain",
-    "description": "Summer vibes and beach sunsets."
+    "description": "Summer vibes and beach sunsets.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://images.musement.com/cover/0042/18/lisbon_header-4117128.jpeg",
     "date": "16/08/2022",
     "city": "Lisbon",
     "country": "Portugal",
-    "description": "The city of seven hills and azulejos."
+    "description": "The city of seven hills and azulejos.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.astrolabioviaggi.it/wp-content/uploads/2022/04/immagine.jpg",
     "date": "22/08/2022",
     "city": "Oporto",
     "country": "Portugal",
-    "description": "The home of port wine and colorful houses."
+    "description": "The home of port wine and colorful houses.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/12/73/93/fc.jpg",
     "date": "11/12/2022",
     "city": "Bucharest",
     "country": "Romania",
-    "description": "A surprising mix of history and modern vibes."
+    "description": "A surprising mix of history and modern vibes.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://inmontenegro.it/wp-content/uploads/2021/10/cosa-vedere-kotor-montenegro.webp",
     "date": "14/08/2023",
     "city": "Kotor",
     "country": "Montenegro",
-    "description": "A hidden gem of the Balkans, its medieval walls and narrow streets tell stories of history, charm, and timeless beauty."
+    "description": "A hidden gem of the Balkans, its medieval walls and narrow streets tell stories of history, charm, and timeless beauty.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://greciaavela.it/wp-content/uploads/2023/11/Come-arrivare-a-Mykonos.png",
     "date": "16/08/2023",
     "city": "Mykonos",
     "country": "Greece",
-    "description": "Blue domes and white houses under the sun."
+    "description": "Blue domes and white houses under the sun.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ports/santorini-greece/overview/santorini-greece-oia-white-blue.jpg?$1440x600$",
     "date": "18/08/2023",
     "city": "Santorini",
     "country": "Greece",
-    "description": "Romantic sunsets and crystal water."
+    "description": "Romantic sunsets and crystal water.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.spagna.info/wp-content/uploads/sites/39/tenerife-hd.jpg",
     "date": "22/08/2023",
     "city": "Tenerife",
     "country": "Spain",
-    "description": "Exploring volcanic landscapes, black-sand beaches and the amazing Mount Teide."
+    "description": "Exploring volcanic landscapes, black-sand beaches and the amazing Mount Teide.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://siviaggia.it/wp-content/uploads/sites/2/2024/11/Collina-di-Fourviere-Lione.jpg",
     "date": "12/11/2023",
     "city": "Lyon",
     "country": "France",
-    "description": "Gastronomy and lights festival!"
+    "description": "Gastronomy and lights festival!",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.visitlondon.com/-/media/images/london/visit/things-to-do/nightlife/tower-bridge-at-night1920x1080.png?mw=800&rev=743f319d95bf47638fe287a5322c115c&hash=4EE2C2E9D2540601359FE846DC4B55C0",
     "date": "03/03/2024",
     "city": "London",
     "country": "United Kingdom",
-    "description": "A timeless city full of history, culture and endless things to discover."
+    "description": "A timeless city full of history, culture and endless things to discover.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://content.skyscnr.com/m/3d3aa128f9c7acbb/original/AUS_B2_A93_N_1B_1.jpg?resize=1224%3Aauto",
     "date": "14/08/2024",
     "city": "Singapore",
     "country": "Singapore",
-    "description": "A futuristic garden city where innovation meets tradition and skyline views shine."
+    "description": "A futuristic garden city where innovation meets tradition and skyline views shine.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.civitatis.com/blog/wp-content/uploads/2024/07/shutterstock_2431067013-scaled.jpg",
     "date": "17/08/2024",
     "city": "Bali",
     "country": "Indonesia",
-    "description": "An island of temples, beaches and tropical calm — a true paradise on Earth."
+    "description": "An island of temples, beaches and tropical calm — a true paradise on Earth.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.happyviaggithailandia.com/app/public/place/image/531/file/gili-Air-4.jpg",
     "date": "19/08/2024",
     "city": "Gili Trawangan",
     "country": "Indonesia",
-    "description": "Crystal-clear waters, no cars, just bikes and sunsets over Lombok’s volcano."
+    "description": "Crystal-clear waters, no cars, just bikes and sunsets over Lombok’s volcano.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://www.thetrainline.com/cms/media/7496/europe_austria_vienna_ststephens.jpg",
     "date": "26/10/2024",
     "city": "Wien",
     "country": "Austria",
-    "description": "Imperial architecture, classical music and the scent of coffee and strudel."
+    "description": "Imperial architecture, classical music and the scent of coffee and strudel.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   },
   {
     "img": "https://static.holidu.com/region/29822/l/8635.jpg",
     "date": "24/02/2025",
     "city": "Marrakech",
     "country": "Morocco",
-    "description": "Vibrant souks, desert adventures and the scent of spices in the air."
+    "description": "Vibrant souks, desert adventures and the scent of spices in the air.",
+    "gallery": [
+      "https://i.postimg.cc/zLfZ7yq8/IMG-20220808-061949.jpg"
+    ]
   }
 ]

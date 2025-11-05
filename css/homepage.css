@@ -14,12 +14,12 @@ body {
 /* ! HOMEPAGE TITLE */
 .homepage-title {
     text-align: center;
-    font-size: 17px;
-    font-weight: 700;
-    color: #FFFFF;
-    margin-top: 100px;
-    margin-bottom: 40px;
-    padding: 0 10px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0;
     line-height: 1.4;
     max-width: 800px;
     margin-left: auto;

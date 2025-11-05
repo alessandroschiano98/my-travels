@@ -1,0 +1,36 @@
+.place-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  #place-title {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  #place-description {
+    color: #555;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+  }
+  
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 15px;
+    justify-items: center;
+  }
+  
+  .gallery img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+  }
+  
+  .gallery img:hover {
+    transform: scale(1.05);
+  }
+  
