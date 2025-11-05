@@ -10,14 +10,25 @@ body {
     background: #ecececdb;
 }
 
-.homepage-title {
-    display: flex;
-    justify-content: center;
-    font-size: 25px;
-    font-weight: 700;
-    
 
-}
+/* ! HOMEPAGE TITLE */
+.homepage-title {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    color: #FFFFF;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    padding: 0 10px;
+    line-height: 1.4;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+  
+
+/* ! CARDS */ 
 
 .card-list {
     display: grid;
@@ -99,6 +110,15 @@ body {
 }
 
 // ! RESPONSIVE // 
+
+@media (max-width: 768px) {
+    .homepage-title {
+      font-size: 1.4rem;
+      margin-top: 80px;
+      margin-bottom: 30px;
+    }
+  }
+
 @media (max-width: 1200px) {
     .card-list .card-item {
         padding: 15px;
