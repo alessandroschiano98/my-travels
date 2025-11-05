@@ -9,13 +9,13 @@
 * {
   padding: 0;
   margin: 0;
-  text-decoration: none;
+
   list-style: none;
   box-sizing: border-box; 
 }
 
 body {
-  font-family: "Montserrat", sans-serif; /* Font principale del sito */
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* --------------------------------------------------------
@@ -28,18 +28,20 @@ nav {
 }
 
 /* ! LOGO DEL SITO */
-label.logo {
+a.logo {
   color: white;
   font-size: 25px;
   line-height: 80px;   /* Allinea verticalmente il testo */
   padding: 0 100px;    /* Spazio interno ai lati */
   font-weight: bold;
+  text-decoration: none;
 }
 
 /* ! CONTENITORE LISTA MENU */
 nav ul {
   float: right;        /* Posiziona il menu a destra */
   margin-right: 20px;
+  
 }
 
 /* ! ELEMENTI DEL MENU */
@@ -47,6 +49,8 @@ nav ul li {
   display: inline-block; /* Disposizione orizzontale */
   line-height: 80px;     /* Allineamento verticale */
   margin: 0 5px;         /* Spazio tra le voci */
+  font-weight: bold;
+  
 }
 
 /* ! LINK DEL MENU */
@@ -56,12 +60,12 @@ nav ul li a {
   padding: 7px 13px;
   border-radius: 3px;
   text-transform: none; /* Tutto maiuscolo */
+  text-decoration: none;
 }
-
 /* ! EFFETTO HOVER E STATO ATTIVO */
 a.active,
 a:hover {
-  background: #8354B1; /* Colore evidenziato */
+  color: #8354B1; /* Colore evidenziato */
   transition: .2s;     /* Transizione fluida */
 }
 
@@ -88,7 +92,7 @@ a:hover {
    ! Riduce leggermente font e padding
 -------------------------------------------------------- */
 @media (max-width: 1050px) {
-  label.logo {
+  a.logo {
     padding-left: 30px;
   }
   nav ul li a {
@@ -107,7 +111,7 @@ a:hover {
   }
 
   /* ! Logo leggermente più piccolo */
-  label.logo {
+  a.logo {
     font-size: 22px;
   }
 
@@ -166,7 +170,7 @@ a:hover {
     .checkbtn {
       display: block;
     }
-    label.logo {
+    a.logo {
       font-size: 22px;
     }
     ul {
@@ -191,6 +195,7 @@ a:hover {
     a.active {
       background: none;
       color: #8354B1;
+      text-decoration: none;
     }
     #check:checked ~ ul {
       left: 0;
