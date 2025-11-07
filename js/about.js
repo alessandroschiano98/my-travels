@@ -7,5 +7,12 @@ document.addEventListener("DOMContentLoaded", () => {
         window.location.href = "aboutme.html";
       });
     }
+
+
+
+    
+    
   });
+
+  
   
