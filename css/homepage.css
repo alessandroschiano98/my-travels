@@ -23,22 +23,32 @@ body {
   text-align: center;
   width: 100%;
   min-height: 200px; 
-  padding: 20px 20px;
+  padding: 5px 20px;
   margin: 0 auto;
 }
 
-.typewriter h1 {
-  font-size: 24px;
-  color: #222;
-  font-family: 'Inter', Arial, sans-serif;
-  font-weight: 600;
-  word-spacing: 155px; /* spazio tra parole */
-  max-width: 900px;
-  margin: 0 auto;
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeInLetters 3.8s ease-out forwards;
-}
+.typewriter p {
+    font-size: 22px;
+    color: #222;
+    font-family: 'Inter', Arial, sans-serif;
+    letter-spacing: 0.05em;   
+    word-spacing: 0.05em;     
+    line-height: 1.6;         
+    max-width: 900px;
+    margin: 0 auto;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInLetters 3.8s ease-out forwards;
+  }
+
+  b.orange {
+    color: #F54927;
+  }
+
+  b.violet {
+    color: #6610f2;
+
+  }
 
 /* ! Effetto fade-in generale */
 @keyframes fadeInLetters {
@@ -52,7 +62,7 @@ body {
   }
 }
 
-/* Lettere individuali */
+/* ! Lettere individuali */
 .typewriter h1 span {
   display: inline-block;
   opacity: 0;

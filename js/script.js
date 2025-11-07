@@ -24,6 +24,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   } catch (error) {
     console.error("Errore nel caricamento del JSON:", error);
   }
+
+
 });
 
 // ! SCRIPT BURGER MENU // 
@@ -35,17 +37,4 @@ checkBtn.addEventListener('click', () => {
   icon.classList.toggle('fa-times');
 });
 
-// ! SCRIPT FADE IN HOMEPAGE TITLE // 
-
-document.addEventListener("DOMContentLoaded", () => {
-  const title = document.querySelector(".typewriter h1");
-  const text = title.textContent;
-  title.textContent = ""; 
-  [...text].forEach((letter, i) => {
-    const span = document.createElement("span");
-    span.textContent = letter;
-    span.style.animationDelay = `${i * 50}ms`;
-    title.appendChild(span);
-  });
-});
 
