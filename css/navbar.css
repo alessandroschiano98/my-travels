@@ -30,6 +30,12 @@ nav {
   
 }
 
+body.menu-open {
+  overflow: hidden; /* blocca lo scroll */
+  height: 100vh; /* evita lo scroll verticale */
+}
+
+
 /* ! LOGO DEL SITO */
 a.logo {
   color: white;
