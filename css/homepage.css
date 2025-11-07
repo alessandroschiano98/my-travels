@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
 
 * {
     margin: 0;
@@ -13,22 +14,65 @@ body {
     
 }
 
+/* ! HOMEPAGE TITLE */ 
 
-/* ! HOMEPAGE TITLE */
-p.homepage-title {
-    text-align: center;
-    font-size: 22px;
-    color: #000000;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding: 0;
-    line-height: 1.0;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    font-family: "Momo Trust Display", sans-serif;
+.typewriter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  min-height: 200px; 
+  padding: 20px 20px;
+  margin: 0 auto;
 }
+
+.typewriter h1 {
+  font-size: 24px;
+  color: #222;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 600;
+  word-spacing: 155px; /* spazio tra parole */
+  max-width: 900px;
+  margin: 0 auto;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInLetters 3.8s ease-out forwards;
+}
+
+/* ! Effetto fade-in generale */
+@keyframes fadeInLetters {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Lettere individuali */
+.typewriter h1 span {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(15px);
+  animation: letterFade 0.05s ease-out forwards;
+  margin-right: 3px; 
+}
+
+@keyframes letterFade {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+  
 
 
 /* ! CARDS */ 
