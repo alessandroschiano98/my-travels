@@ -25,12 +25,15 @@ body {
   min-height: 200px; 
   padding: 5px 20px;
   margin: 0 auto;
+  
+  
 }
 
 .typewriter p {
     font-size: 22px;
     color: #222;
-    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 300;
+    font-family: "Momo Trust Display", sans-serif;
     letter-spacing: 0.05em;   
     word-spacing: 0.05em;     
     line-height: 1.6;         
@@ -50,7 +53,7 @@ body {
 
   }
 
-/* ! Effetto fade-in generale */
+/* ! Fade-In General Effect */
 @keyframes fadeInLetters {
   0% {
     opacity: 0;
@@ -62,7 +65,7 @@ body {
   }
 }
 
-/* ! Lettere individuali */
+/* ! Single Letters */
 .typewriter h1 span {
   display: inline-block;
   opacity: 0;
